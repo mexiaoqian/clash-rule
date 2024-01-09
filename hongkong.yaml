@@ -1,2 +1,4 @@
 payload:
   - '+.guardianapis.com'
+  - 'copilot.microsoft.com'
+  - '+.copilot.microsoft.com'
