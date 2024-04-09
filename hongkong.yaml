@@ -1,3 +1,5 @@
 payload:
   - '+.guardianapis.com'
   - '+.news.com.au'
+  - '+.bbcx-internal.com'
+  - '+.live.bbcx-internal.com'
