@@ -5,3 +5,4 @@ payload:
   - '+.bingapis.com'
   - 'edgeservices.bing.com'
   - '+.linkin.com'
+  - '+.sdk.linkin.com'
