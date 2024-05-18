@@ -6,3 +6,4 @@ payload:
   - 'edgeservices.bing.com'
   - '+.linkedin.com'
   - '+.sdk.linkedin.com'
+  - '+.openai.com'
