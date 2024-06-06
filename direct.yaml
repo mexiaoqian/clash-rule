@@ -2,3 +2,5 @@ payload:
   - '+.zoom.com'
   - '+.findmyschool.vic.gov.au'
   - '+.vic.gov.au'
+  # bilibili cdn
+  - '+.hdslb.com'
