@@ -9,4 +9,5 @@ payload:
   - '+.sdk.linkedin.com'
   - '+.openai.com'
   - '+.chatgpt.com'
+  - 'chatgpt.com'
   - '+.worldtimebuddy.com'
