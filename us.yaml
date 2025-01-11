@@ -15,3 +15,5 @@ payload:
   - '+.singular.net'
   - '+.poecdn.net'
   - '+.cf2.poecdn.net'
+  - 'generativelanguage.googleapis.com'
+  - 'gemini.google.com'
