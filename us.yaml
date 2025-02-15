@@ -17,3 +17,5 @@ payload:
   - '+.cf2.poecdn.net'
   - 'generativelanguage.googleapis.com'
   - 'gemini.google.com'
+  - 'notebooklm.google'
+  - 'notebooklm.google.com'
