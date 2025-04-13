@@ -1,4 +1,7 @@
 payload:
   - '+.javstore.net'
   - 'javstore.net'
+  - 'jdbstatic.com'
+  - '+.jdbstatic.com'
+
 
